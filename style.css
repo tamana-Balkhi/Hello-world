@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;
+}
+
+.h1 {
+  color: red;
+  text-align: start;
+}
+
+p {
+  text-align: justify;
+}
